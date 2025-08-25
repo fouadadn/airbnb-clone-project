@@ -1,5 +1,75 @@
 # airbnb-clone-project
 
+## UI/UX Design Planning
+
+### Design Goals
+- Create a responsive, intuitive, and visually appealing interface.  
+- Ensure seamless navigation and accessibility for all users.  
+- Make property search, booking, and checkout processes simple and fast.  
+
+### Key Features
+- Property search and filter by location, price, and availability.  
+- Detailed property view with photos, amenities, and reviews.  
+- Smooth checkout process with booking summary and payment.  
+
+### Primary Pages Overview
+
+| Page | Description |
+|------|-------------|
+| **Property Listing View** | Displays all available properties with filters, search, and basic info. |
+| **Listing Detailed View** | Shows full property details, images, host info, reviews, and booking option. |
+| **Simple Checkout View** | Allows users to review booking, enter payment details, and confirm reservation. |
+
+### Importance of User-Friendly Design
+A clear and intuitive design ensures users can easily find and book properties without frustration, increasing satisfaction and trust in the platform.  
+
+
+### Design Properties
+
+**Color Styles:**  
+- Primary: #FF5A5F  
+- Secondary: #008489  
+- Background: #FFFFFF  
+- Text: #222222  
+- Secondary Text: #717171  
+
+**Typography:**  
+- Primary Font: Circular, Medium (500), 16px  
+- Headings: Circular, Bold (700), 24px-32px  
+- Secondary Text: Circular, Book (400), 14px  
+
+**Importance:**  
+Identifying design properties such as colors and typography ensures consistency across the application, maintains brand identity, improves readability, and provides a professional, user-friendly interface that aligns with the Figma mockup.
+
+## Project Roles and Responsibilities
+
+- **Project Manager**: Oversees timelines, coordinates team activities, ensures deliverables are completed on schedule.  
+- **Frontend Developers**: Build and maintain UI components, ensure responsive and user-friendly design, integrate with backend APIs.  
+- **Backend Developers**: Develop APIs, manage the database, implement business logic, and ensure data security.  
+- **Designers**: Create mockups, maintain design system, ensure consistent UX across the application.  
+- **QA/Testers**: Write test cases, perform testing, report bugs, and ensure high-quality deliverables.  
+- **DevOps Engineers**: Manage deployment, CI/CD pipelines, and server infrastructure for smooth application delivery.  
+- **Product Owner**: Defines project requirements, prioritizes features, and represents stakeholder interests.  
+- **Scrum Master**: Facilitates agile processes, removes blockers, organizes meetings, and ensures smooth team workflow.
+
+## UI Component Patterns
+
+### Navbar
+- Includes logo, search bar, user navigation, and a responsive menu.  
+- Designed to be reusable across all pages for consistent navigation.
+
+### Property Card
+- Displays property image, basic details (price, location, rating), and a favorite button.  
+- Reusable component for listing properties in grids or search results.
+
+### Footer
+- Contains site links, company information, social media links, and copyright.  
+- Ensures consistent footer design across the application.
+
+*All components are designed with reusability, responsiveness, and consistency in mind.*
+
+
+
 ## Team Roles
 
 - **Backend Developer**: Builds APIs, server logic, ensures security and performance.  
